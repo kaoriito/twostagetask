@@ -20,6 +20,9 @@ This should take you to a page that looks like this on Google Drive:
 <br>
 Click on **DOWNLOAD ALL** and you should see a pop-up appear that says "Preparing download". This will take a moment, depending on your internet connection speed.
 
+<br>
+After it is done zipping, you will see a pop-up that asks if you want to leave the site. Click on YES, and your download will begin.
+
 2. 
 3.
 
