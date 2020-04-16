@@ -15,12 +15,10 @@ Please see installation instructions to participate in the two-stage decision ta
 
 1. In the email linking you to this page, click on "Link to download task".
 <br>
-</br>
-This should take you to a page that looks like this on Google Drive:
-
+ This should take you to a page that looks like this on Google Drive:
 
 <br>
-<br/> Click on __DOWNLOAD ALL__, and you should see a pop-up appear that says "Preparing download". This will take a moment, depending on your internet connection speed.
+<br/> Click on __DOWNLOAD ALL__ , and you should see a pop-up appear that says "Preparing download". This will take a moment, depending on your internet connection speed.
 
 2. 
 3.
