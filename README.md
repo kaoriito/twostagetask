@@ -7,11 +7,21 @@ Please see installation instructions to participate in the two-stage decision ta
 
 ## Installation Instructions
 
+[Mac](#mac-installation-instructions)
 
-[Mac](#Mac-Installation-Instructions)
+[Windows](#windows-installation-instructions)
+
+### Mac Installation Instructions
+
+1. 
+2. 
+3.
+
+### Windows Installation Instructions
 
 
-### Mac Installation Instructions (#Mac-Installation-Instructions)
 
-Modified two-stage markov decision task from Daw et al., 2011 &amp; Gillan et al., 2015
+
+## Acknoweldgements
+This modified two-stage markov decision task is adapted from Daw et al., 2011 &amp; Gillan et al., 2015
 
