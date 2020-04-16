@@ -18,7 +18,7 @@ Please see installation instructions to participate in the two-stage decision ta
  This should take you to a page that looks like this on Google Drive:
 
 <br>
-Click on **DOWNLOAD ALL**, and you should see a pop-up appear that says "Preparing download". This will take a moment, depending on your internet connection speed.
+Click on ** DOWNLOAD ALL ** , and you should see a pop-up appear that says "Preparing download". This will take a moment, depending on your internet connection speed.
 
 2. 
 3.
