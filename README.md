@@ -13,7 +13,9 @@ Please see installation instructions to participate in the two-stage decision ta
 
 ### Mac Installation Instructions
 
-1. 
+1. You should have received an email with the subject line __TwoStageInstaller_mcr.app - Invitation to collaborate__. 
+<br> If you have not received this email, please contact the experimenter.
+
 2. 
 3.
 
