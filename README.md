@@ -13,8 +13,14 @@ Please see installation instructions to participate in the two-stage decision ta
 
 ### Mac Installation Instructions
 
-1. You should have received an email with the subject line __TwoStageInstaller_mcr.app - Invitation to collaborate__. 
-<br> If you have not received this email, please contact the experimenter.
+1. In the email linking you to this page, click on "Link to download task".
+<br>
+</br>
+This should take you to a page that looks like this on Google Drive:
+
+
+<br>
+<br/> Click on __DOWNLOAD ALL__, and you should see a pop-up appear that says "Preparing download". This will take a moment, depending on your internet connection speed.
 
 2. 
 3.
