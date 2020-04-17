@@ -16,7 +16,7 @@ Please see installation instructions to participate in the two-stage decision ta
 __Downloading Files__
 1. In the email linking you to this page, click on "Link to download task".
 
-This should take you to a page that looks like this on Google Drive:
+    This should take you to a page that looks like this on Google Drive:
 
 2. Click on **Download All** and you should see a pop-up appear that says "Preparing download". It will take a moment to zip the files, depending on your internet connection speed.
 
