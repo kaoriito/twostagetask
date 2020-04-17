@@ -13,15 +13,16 @@ Please see installation instructions to participate in the two-stage decision ta
 
 ### Mac Installation Instructions
 
+__Downloading Files__
 1. In the email linking you to this page, click on "Link to download task".
 <br>
 This should take you to a page that looks like this on Google Drive:
 
 <br>
-2. Click on **DOWNLOAD** **ALL** and you should see a pop-up appear that says "Preparing download". This will take a moment, depending on your internet connection speed.
+2. Click on **Download All** and you should see a pop-up appear that says "Preparing download". It will take a moment to zip the files, depending on your internet connection speed.
 
 <br>
-3. After it is done zipping, you will see a pop-up that asks if you want to leave the site. Click on YES, and your download will begin.
+3. After it completes, you will see a pop-up that asks if you want to leave the site. Click on YES, and your download will begin.
 
 2. 
 3.
