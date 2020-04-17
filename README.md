@@ -65,13 +65,14 @@ This part may not be necessary depending on the Mac OS version you are using. Th
    Great! Now we are ready to start the program!
 
 #### Running the program
-1. To run the program, simply go to your spotlight search icon, and type in "TwoStage_DecisionTask". This may take some time to load.
+1. To run the program, go to your __Applications__ directory by going to __Finder > Go > Applications__. 
+    Within __Applications__, find a folder called __TwoStage_DecisionTask__, then go to "application", and click on the icon that says "TwoStage_DecisionTask". This should open up the program.
 
 2. If it starts, and then stops running, you may need to go back to __Security & Preferences__ and click on "Open Anyway" to allow the installed application to run. This should only happen the first time you run it.
 
 3. When the application opens, you will see a pop-up window that says "Select a destination to save your files. We recommend saving files to your desktop". 
 
-4. Voila! You have started the program. Continue following the prompts it gives you. You will first go through the instructions, which are broken down into 3 parts, and then be given a short quiz to make sure you are understanding the instructions correctly. After you pass the quiz, the real experiment begins!
+4. Voila! You have successfully started the program! Continue following the prompts it gives you. You will first go through the instructions, which are broken down into 3 parts, and then be given a short quiz to make sure you are understanding the instructions correctly. After you pass the quiz, the real experiment begins!
 
 
 ### Windows Installation Instructions
