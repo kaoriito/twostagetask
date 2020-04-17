@@ -6,15 +6,14 @@ Please see installation instructions to participate in the two-stage decision ta
 
 
 ## Installation Instructions
-
 [Mac](#mac-installation-instructions)
 
 [Windows](#windows-installation-instructions)
 
 ### Mac Installation Instructions
 
-__Downloading From Google Drive__
-<br>
+#### Downloading From Google Drive
+
 First, you are going to download the file you need to install the application. This file is called __TwoStageInstaller_mcr__.
 
 1. In the email that linked you to this page, click on "Link to download task".
@@ -27,7 +26,7 @@ First, you are going to download the file you need to install the application. T
 
 3. After it is done zipping, you may see a pop-up window, depending on your browser. Click on YES, and your download will begin. This may also take some time.
 
-__Installing the Application__
+#### Installing the Application
 1. Now that the file has downloaded, double click on the TwoStageInstaller_mcr.zip file to first unzip the file, then double click on the resulting icon (TwoStageInstaller_mcr).  
 
 2. When you see a pop-up that says "TwoStageInstaller_mcr cannot be opened becase the developer cannot be verified", click on "Cancel".
@@ -54,7 +53,7 @@ __Installing the Application__
 
 ![Image of Installer Completed](images/installer_complete.png)
 
-__Running the program__
+#### Running the program
 
 
 ### Windows Installation Instructions
