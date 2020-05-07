@@ -14,9 +14,8 @@ modified two-stage markov decision task from Daw et al., 2011 &amp; Gillan et al
 
 ---
 
-<br>
 
-## Run task with remote desktop
+## Run with remote desktop
 1. If you do not already have the Google Chrome web browser installed, please follow [instructions here to install Google Chrome](https://support.google.com/chrome/answer/95346?co=GENIE.Platform%3DDesktop&hl=en)
 
 2. On your Google Chrome browser, go to: [https://remotedesktop.google.com/access](https://remotedesktop.google.com/access)
@@ -47,7 +46,6 @@ modified two-stage markov decision task from Daw et al., 2011 &amp; Gillan et al
 
 ---
 
-<br>
 
 ## Mac Installation Instructions
 
