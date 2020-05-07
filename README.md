@@ -3,7 +3,7 @@ modified two-stage markov decision task from Daw et al., 2011 &amp; Gillan et al
 
 ## Instructions for set-up:
 
-1. On your google chrome browser, go to: [https://remotedesktop.google.com/access](https://remotedesktop.google.com/access).
+1. On your google chrome browser, go to: [https://remotedesktop.google.com/access](https://remotedesktop.google.com/access)
 
   **If you do not have a google account:** 
   the webpage will prompt you to sign in.
