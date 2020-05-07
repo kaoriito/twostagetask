@@ -8,9 +8,10 @@ modified two-stage markov decision task from Daw et al., 2011 &amp; Gillan et al
 
 2. Below the search bar, click on the blue button that says "Run Speed Test" and wait.
 
-3. If you have a minimum of 25 Mbps download speed and 3 Mbps upload speed, continue below (run task with remote desktop). Otherwise, you will need to download and [install the application to run it (supported for Macs only)](#mac-installation-instructions). 
-
+3. If you have a minimum of 25 Mbps download speed and 3 Mbps upload speed, continue below ([run task with remote desktop](#run-task-with-remote-desktop). Otherwise, you will need to [download and install the application to run it (supported for Macs only)](#mac-installation-instructions). 
+<br>
 ---
+<br>
 ## Run task with remote desktop
 1. On your google chrome browser, go to: [https://remotedesktop.google.com/access](https://remotedesktop.google.com/access)
 
@@ -35,9 +36,9 @@ modified two-stage markov decision task from Daw et al., 2011 &amp; Gillan et al
   Click on the white box, and enter the unique **PIN** given to you by the experimenter. 
 
   That's it! You should be able to see the experimenter’s screen.
-
+<br>
 ---
-
+<br>
 ## Mac Installation Instructions
 
 #### Downloading Application From Google Drive
