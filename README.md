@@ -9,8 +9,8 @@ modified two-stage markov decision task from Daw et al., 2011 &amp; Gillan et al
 
 Use the following information:
 
-Email: npnl.remote <br>
-Password: this will be a one-time use password sent to you by the experimenter
+**Email:** npnl.remote <br>
+**Password:** this will be a one-time use password sent to you by the experimenter
 
 
 **If you DO have a google account,** you will still need to sign in with the above credentials.<br> 
@@ -21,7 +21,7 @@ After you have successfully logged in, you should see a white box labeled NPNL D
 
 <photo of remote desktop>
 
-Click on the white box, and enter the unique PIN given to you by the experimenter. 
+Click on the white box, and enter the unique **PIN** given to you by the experimenter. 
 
 You should be able to see the experimenter’s screen.
 
