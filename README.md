@@ -36,11 +36,11 @@ modified two-stage markov decision task from Daw et al., 2011 &amp; Gillan et al
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You can do so by clicking the circle icon in the top right corner of the webpage. 
 
 
-3. After you have successfully logged in, you should see a white box labeled NPNL Desktop, like this:
+3. After you have successfully logged in, you should see a white box labeled "NPNL Desktop", like this:
 
 ![Image of Remote desktop access](images/remotedesktop.png)
 
-  Click on the white box, and enter the unique **PIN** given to you by the experimenter. 
+  Click on the white box that says "NPNL Desktop", and enter the unique **PIN** given to you by the experimenter. 
 
   That's it! You should be able to see the experimenter’s screen.
 
