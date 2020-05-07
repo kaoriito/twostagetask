@@ -10,9 +10,11 @@ modified two-stage markov decision task from Daw et al., 2011 &amp; Gillan et al
 
 3. If you have a minimum of 25 Mbps download speed and 3 Mbps upload speed, continue below ([run task with remote desktop](#run-task-with-remote-desktop). Otherwise, you will need to [download and install the application to run it (supported for Macs only)](#mac-installation-instructions). 
 
+<br>
 
 ---
 
+<br>
 
 ## Run task with remote desktop
 1. On your google chrome browser, go to: [https://remotedesktop.google.com/access](https://remotedesktop.google.com/access)
@@ -39,9 +41,11 @@ modified two-stage markov decision task from Daw et al., 2011 &amp; Gillan et al
 
   That's it! You should be able to see the experimenter’s screen.
 
+<br>
 
 ---
 
+<br>
 
 ## Mac Installation Instructions
 
