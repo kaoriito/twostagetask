@@ -4,7 +4,7 @@ modified two-stage markov decision task from Daw et al., 2011 &amp; Gillan et al
 # Instructions for set-up:
 
 ## Testing your internet speed
-1. Go to google.com and type in "internet speed test"
+1. Go to [google.com](https://google.com) and type in "internet speed test"
 
 2. Below the search bar, click on the blue button that says "Run Speed Test" and wait.
 
@@ -17,7 +17,9 @@ modified two-stage markov decision task from Daw et al., 2011 &amp; Gillan et al
 <br>
 
 ## Run task with remote desktop
-1. On your google chrome browser, go to: [https://remotedesktop.google.com/access](https://remotedesktop.google.com/access)
+1. If you do not already have the Google Chrome web browser installed, please follow [instructions here to install Google Chrome](https://support.google.com/chrome/answer/95346?co=GENIE.Platform%3DDesktop&hl=en)
+
+2. On your Google Chrome browser, go to: [https://remotedesktop.google.com/access](https://remotedesktop.google.com/access)
 
   **If you do not have a google account:** 
   the webpage will prompt you to sign in.
@@ -33,9 +35,9 @@ modified two-stage markov decision task from Daw et al., 2011 &amp; Gillan et al
   You can do so by clicking the circle icon in the top right corner of the webpage. 
 
 
-2. After you have successfully logged in, you should see a white box labeled NPNL Desktop, like this:
+3. After you have successfully logged in, you should see a white box labeled NPNL Desktop, like this:
 
-<photo of remote desktop>
+<image of remote desktop>
 
   Click on the white box, and enter the unique **PIN** given to you by the experimenter. 
 
