@@ -8,6 +8,8 @@ modified two-stage markov decision task from Daw et al., 2011 &amp; Gillan et al
 
 2. Below the search bar, click on the blue button that says "Run Speed Test" and wait.
 
+![Image of Speed Test](images/speedtest.png)
+
 3. If you have a minimum of 25 Mbps download speed and 3 Mbps upload speed, continue below [(run task with remote desktop)](#run-task-with-remote-desktop). Otherwise, you will need to [download and install the application to run it (supported for Macs only)](#mac-installation-instructions). 
 
 <br>
@@ -20,7 +22,7 @@ modified two-stage markov decision task from Daw et al., 2011 &amp; Gillan et al
 
 2. On your Google Chrome browser, go to: [https://remotedesktop.google.com/access](https://remotedesktop.google.com/access)
 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **If you do not have a google account:** 
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **If you do not have a google account:** <br>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the webpage will prompt you to sign in.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Use the following information:
@@ -29,14 +31,14 @@ modified two-stage markov decision task from Daw et al., 2011 &amp; Gillan et al
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **Password:** this will be a one-time use password sent to you by the experimenter
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **If you DO have a google account:** 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **If you DO have a google account:** <br>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; you will still need to sign in with the above credentials.<br> 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You can do so by clicking the circle icon in the top right corner of the webpage. 
 
 
 3. After you have successfully logged in, you should see a white box labeled NPNL Desktop, like this:
 
-<image of remote desktop>
+![Image of Remote desktop access](images/remotedesktop.png)
 
   Click on the white box, and enter the unique **PIN** given to you by the experimenter. 
 
