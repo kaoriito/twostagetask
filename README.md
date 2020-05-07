@@ -10,7 +10,7 @@ modified two-stage markov decision task from Daw et al., 2011 &amp; Gillan et al
 
 ![Image of Speed Test](images/speedtest.png)
 
-3. If you have a minimum of 25 Mbps download speed and 3 Mbps upload speed, continue to the next section below [(run with remote desktop)](#run-task-with-remote-desktop). Otherwise, you will need to [download and install the application to run it (supported for Macs only)](#mac-installation-instructions). 
+3. If you have a minimum of 25 Mbps download speed and 3 Mbps upload speed, continue to the next section below [(Run with remote desktop)](#run-with-remote-desktop). Otherwise, go to [task installation instructions (supported for Macs only)](#task-installation-instructions). 
 
 <br>
 
@@ -49,7 +49,8 @@ modified two-stage markov decision task from Daw et al., 2011 &amp; Gillan et al
 ---
 
 
-## Mac Installation Instructions
+## Task Installation Instructions 
+NOTE: this is only for Mac operating systems. Windows and Linux OS operating systems are currently not supported.
 
 #### Downloading Application From Google Drive
 
