@@ -56,9 +56,9 @@ NOTE: this is only for Mac operating systems. Windows and Linux OS operating sys
 
 First, you are going to download the file you need to install the application. This file is called __TwoStageInstaller_mcr__.
 
-1. In the email that linked you to this page, click on "Link to download task".
+1. The experimenter will send you an email with a Link to download task. 
 
-    This should take you to a page that looks like this on Google Drive:
+    Clicking on the link should take you to a page that looks like this on Google Drive:
     
     ![Image of Google Drive](images/gdrive.png)
 
