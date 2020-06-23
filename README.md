@@ -10,7 +10,7 @@ modified two-stage markov decision task from Daw et al., 2011 &amp; Gillan et al
 
 ![Image of Speed Test](images/speedtest.png)
 
-3. If you have a minimum of 25 Mbps download speed and 3 Mbps upload speed, continue to the next section below [(Run with remote desktop)](#run-with-remote-desktop). Otherwise, go to [task installation instructions (supported for Macs only)](#task-installation-instructions). 
+3. If you have a minimum of 100 Mbps download speed and 3 Mbps upload speed, continue to the next section below [(Run with remote desktop)](#run-with-remote-desktop). Otherwise, go to [task installation instructions (supported for Macs only)](#task-installation-instructions). 
 
 <br>
 
